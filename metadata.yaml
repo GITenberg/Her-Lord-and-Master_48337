@@ -1,0 +1,28 @@
+_repo: Her-Lord-and-Master_48337
+contributor:
+  illustrators:
+  - agent_name: Christy, Howard Chandler
+    birthdate: 1873
+    deathdate: 1952
+    gutenberg_agent_id: '4540'
+    url: http://www.gutenberg.org/2009/agents/4540
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Chandler_Christy
+  - agent_name: Namara, Esther Mac
+    gutenberg_agent_id: '44743'
+    url: http://www.gutenberg.org/2009/agents/44743
+creator:
+  author:
+    agent_name: Morton, Martha
+    gutenberg_agent_id: '44742'
+    url: http://www.gutenberg.org/2009/agents/44742
+description: ''
+gutenberg_issued: '2015-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '48337'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: Her Lord and Master
+url: http://www.gutenberg.org/ebooks/48337
